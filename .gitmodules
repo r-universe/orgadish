@@ -8,3 +8,6 @@
 [submodule "filecacher"]
 	path = filecacher
 	url = https://github.com/orgadish/filecacher
+[submodule "ggsnap"]
+	path = ggsnap
+	url = https://github.com/orgadish/ggsnap
